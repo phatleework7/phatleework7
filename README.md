@@ -7,7 +7,7 @@
 - 🇻🇳 I’m  from Vietnam.
 - 📖 I'm a student in University of Economics Ho Chi Minh City with major is Software Enginering.
 - 🔭 I’m currently working on Website Projects and continue to develop to create new things.
-- 🌱 I’m currently learning Java, Python, C#,... anything because i always ready study new technology.
+- 🌱 I’m currently learning Java, Python, C#, PHP... anything because i always ready study new technology.
 - 📫 How to reach me: just by Email or Linkedin below.
 - ⚡ Fun fact: I love coding, playing basketball, rap, singing, and reading book.
 
