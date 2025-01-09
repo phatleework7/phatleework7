@@ -22,6 +22,7 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<hr>
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=phatleework7&theme=flat&no-frame=false&no-bg=true&margin-w=4)
