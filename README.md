@@ -1,12 +1,12 @@
 ### Hi there 👋
 ### My name is Phat. Welcome to my github
+![](https://i.imgur.com/waxVImv.png)
 
 <details align="center">
 <summary>
     <strong>More...</strong>
 </summary>
-
-![](https://i.imgur.com/waxVImv.png)
+    
 ### About me
 - 🇻🇳 I’m  from Vietnam.
 - 📖 I'm a student in University of Economics Ho Chi Minh City with major is Software Enginering.
@@ -15,11 +15,11 @@
 - 📫 How to reach me: just by Email or Linkedin below.
 - ⚡ Fun fact: I love coding, playing basketball, rap, singing, and reading book.
 
-
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=phatleework7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phatleework7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<hr>
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
