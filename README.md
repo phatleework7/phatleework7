@@ -18,14 +18,10 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=phatleework7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phatleework7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <hr>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-### 🌐You can contact with me by:
-phatlee.work7@gmail.com
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=phatleework7&theme=flat&no-frame=false&no-bg=true&margin-w=4)
